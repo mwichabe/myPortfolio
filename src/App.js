@@ -27,6 +27,9 @@ function App() {
 
     return () => clearTimeout(timer);
   }, []);
+  useEffect(() => {
+    document.title = 'Mwichabe | Portfolio';
+  }, []);
 
   return (
     <Router>

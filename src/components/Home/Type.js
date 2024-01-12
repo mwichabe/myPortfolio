@@ -6,10 +6,12 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Mobile Application Developer",
+          "Software Developer (Web React)",
+          "Mobile Developer (Flutter)",
+          "Cross Platform Developer (React Native Flutter)",
+          "Rest API developer (Node Express.js",
+          "Data Analyst (python)",
           "Freelancer",
-          "Rest API developer",
-          "Data Analyst",
         ],
         autoStart: true,
         loop: true,
