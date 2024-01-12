@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.e797d5ee.css",
+    "main.js": "/myPortfolio/static/js/main.869189fb.js",
+    "static/js/787.7da95b79.chunk.js": "/myPortfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/codeEditor.png": "/myPortfolio/static/media/codeEditor.5decb8fad50f97109bc5.png",
+    "static/media/MyResume.pdf": "/myPortfolio/static/media/MyResume.5aa7eb900c73a2396b50.pdf",
+    "static/media/home-main.svg": "/myPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/myPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/emotion.png": "/myPortfolio/static/media/emotion.39f3edfc8a2e67ac2f69.png",
+    "static/media/suicide.png": "/myPortfolio/static/media/suicide.0bb265fb3d53d7fbf758.png",
+    "static/media/home-bg.jpg": "/myPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/leaf.png": "/myPortfolio/static/media/leaf.bcd2b2dc866c045c3181.png",
+    "static/media/blog.png": "/myPortfolio/static/media/blog.8d51dbd7dddc3d56786a.png",
+    "static/media/chatify.png": "/myPortfolio/static/media/chatify.4caee4031dcfb965574e.png",
+    "static/media/avatar.svg": "/myPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/myPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/myPortfolio/index.html",
+    "main.e797d5ee.css.map": "/myPortfolio/static/css/main.e797d5ee.css.map",
+    "main.869189fb.js.map": "/myPortfolio/static/js/main.869189fb.js.map",
+    "787.7da95b79.chunk.js.map": "/myPortfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e797d5ee.css",
+    "static/js/main.869189fb.js"
+  ]
+}
