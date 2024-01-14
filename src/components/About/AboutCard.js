@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I am <span className="purple">Mwichabe Collins </span>
             from <span className="purple"> Nairobi, Kenya.</span>
-            <br /> I am a final year student pursuing a Bachelor's degree in Information Technology at Kibabii University
+            <br /> Currently on my final year pursuing a Bachelor's degree in Information Technology at Kibabii University
             <br />
             Additionally, I am currently employed as a software developer at
             KontorVA.

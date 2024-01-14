@@ -15,23 +15,23 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              <span className="purple"> BRIEF INTRODUCTION </span>
             </h1>
             <p className="home-about-body">
-            I'm a passionate software developer with a love for coding.
+            I am a passionate software developer with a love for coding.
               <br />
-              <br />I am fluent in classics like
+              <br />Here are my favourite languages: 
               <i>
                 <b className="purple"> Dart, Java Event Driven GUI, Java Script and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I like learning new technologies that involves building  &nbsp;
               <i>
-                <b className="purple">Mobile Applications and Analysing Large datasets </b> and
-                also in areas related to{" "}
+                <b className="purple">Mobile Applications and Analysing Large datasets Python </b> I have keen eye on
+                 areas related to{" "}
                 <b className="purple">
-                  Game development.
+                  bot development, machine learning and training.
                 </b>
               </i>
               <br />
@@ -46,7 +46,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Flutter and Flask</b>
+                <b className="purple"> Flutter and Next.js</b>
               </i>
             </p>
           </Col>
