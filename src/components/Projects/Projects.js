@@ -31,6 +31,16 @@ function Projects() {
               demoLink="https://www.linkedin.com/posts/collins-mwichabe1345_flutterdeveloper-mobileappdevelopment-antoniosapp-activity-7130597862886817792-lBCR?utm_source=share&utm_medium=member_desktop"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={leaf}
+              isBlog={false}
+              title="Astret Consultant"
+              description="Web and Mobile App, made use of Quotable API"
+              ghLink="https://github.com/mwichabe/astretConsultant/tree/main"
+              demoLink="https://astretconsultant.pages.dev/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -51,17 +61,6 @@ function Projects() {
               description="Minesweeper is a classic single-player puzzle game. This project is a Java implementation of Minesweeper with a graphical user interface (GUI)."
               ghLink="https://github.com/mwichabe/Minesweeper-Game"
               //demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="C HeapAllocator"
-              description="Implemented heap allocator similar to ptmalloc2, jemalloc, tcmalloc."
-              ghLink="https://github.com/mwichabe/heapallocator"
-              //demoLink=""
             />
           </Col>
 
