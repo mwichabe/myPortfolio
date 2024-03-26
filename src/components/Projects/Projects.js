@@ -33,6 +33,16 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Hustle Hub "
+              description="A React based Web app for connecting job seekers to secure jobs at their particular field(s)"
+              ghLink="https://github.com/mwichabe/HustleHub"
+              demoLink="https://a7c80ff4.hustledeploy.pages.dev/"              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={leaf}
               isBlog={false}
               title="Astret Consultant"
@@ -50,17 +60,6 @@ function Projects() {
               description="Made use of openweather API to show the weather paterns, this was build with flutter."
               ghLink="https://github.com/mwichabe/waterDetector"
               //demoLink=""
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Java Minesweeper Guessing Game"
-              description="Minesweeper is a classic single-player puzzle game. This project is a Java implementation of Minesweeper with a graphical user interface (GUI)."
-              ghLink="https://github.com/mwichabe/Minesweeper-Game"
-              //demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
@@ -85,6 +84,7 @@ function Projects() {
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
+          
         </Row>
       </Container>
     </Container>
