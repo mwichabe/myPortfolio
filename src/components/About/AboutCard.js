@@ -8,32 +8,31 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi, I am <span className="purple">Mwichabe Collins </span>
+            Hi, my name <span className="purple">Collins M. </span>
             from <span className="purple"> Nairobi, Kenya.</span>
-            <br /> Currently on my final year pursuing a Bachelor's degree in Information Technology at Kibabii University
+            <br /> I have completed my final year coursework in Bachelor's degree in Information Technology at Kibabii University
             <br />
-            Additionally, I am currently employed as a software developer at
-            KontorVA.
+            Looking for a job that has favourable working environment, and goal minded to reach their objectives, a place where I can learn from and possibly grow.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Reading the Bible
             </li>
             <li className="about-activity">
-              <ImPointRight />Swimming
+              <ImPointRight />Singing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading
+              <ImPointRight /> Research - oriented mind, like in understanding what is happening in the cosmos
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Change starts by you!"{" "}
+            "Do your best GOD will reward."{" "}
           </p>
-          <footer className="blockquote-footer">Mwichabe</footer>
+          <footer className="blockquote-footer">Collins M.</footer>
         </blockquote>
       </Card.Body>
     </Card>

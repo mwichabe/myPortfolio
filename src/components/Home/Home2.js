@@ -18,35 +18,35 @@ function Home2() {
               <span className="purple"> BRIEF INTRODUCTION </span>
             </h1>
             <p className="home-about-body">
-            I am a passionate software developer with a love for coding.
+            Want your work done? Reach out foor quality work at affordable prices..
               <br />
-              <br />Here are my favourite languages: 
+              <br />My stack:
               <i>
-                <b className="purple"> Dart, Java Event Driven GUI, Java Script and Python. </b>
+                <b className="purple"> For mobile development/web/desktop: Flutter, For Desktop App JavaNetbeans Event Driven GUI. For web Development: Java Script (React.js), (Express.js) For backend: and Python(Flask/Django). </b>
               </i>
               <br />
               <br />
-              I like learning new technologies that involves building  &nbsp;
+              I am keen in learning trending technologies and languages such as  &nbsp;
               <i>
-                <b className="purple">Mobile Applications and Analysing Large datasets Python </b> I have keen eye on
+                <b className="purple"> Go lang, Rust </b> I have keen eye on
                  areas related to{" "}
                 <b className="purple">
-                  bot development, machine learning and training.
+                 Frontend development
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Dart</b> and
+              I am constatnly working on my own projects hoping someday I will reach a potential market base.
+              with <b className="purple">Mark Zugerburg</b> as
               <i>
                 <b className="purple">
                   {" "}
-                  Modern mobile frameworks and Libraries
+                  one of my mentors.
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; in
               <i>
-                <b className="purple"> Flutter and Next.js</b>
+                <b className="purple"> GOD   I TRUST.</b>
               </i>
             </p>
           </Col>
