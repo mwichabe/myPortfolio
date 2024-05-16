@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.e797d5ee.css",
-    "main.js": "/myPortfolio/static/js/main.4463824d.js",
-    "static/js/787.7da95b79.chunk.js": "/myPortfolio/static/js/787.7da95b79.chunk.js",
+    "main.js": "/myPortfolio/static/js/main.e23b221c.js",
+    "static/js/787.5460105f.chunk.js": "/myPortfolio/static/js/787.5460105f.chunk.js",
     "static/media/codeEditor.png": "/myPortfolio/static/media/codeEditor.5f084de9fcb30a54dc4c.png",
     "static/media/home-main.svg": "/myPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/myPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/MyResume.pdf": "/myPortfolio/static/media/MyResume.eb8c117af4ba712f8c12.pdf",
+    "static/media/MyResume..pdf": "/myPortfolio/static/media/MyResume..57e9f075c35d4d32ec01.pdf",
     "static/media/emotion.png": "/myPortfolio/static/media/emotion.39f3edfc8a2e67ac2f69.png",
     "static/media/leaf.png": "/myPortfolio/static/media/leaf.f7d10950e47aa868bf72.png",
     "static/media/suicide.png": "/myPortfolio/static/media/suicide.0bb265fb3d53d7fbf758.png",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/myPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/myPortfolio/index.html",
     "main.e797d5ee.css.map": "/myPortfolio/static/css/main.e797d5ee.css.map",
-    "main.4463824d.js.map": "/myPortfolio/static/js/main.4463824d.js.map",
-    "787.7da95b79.chunk.js.map": "/myPortfolio/static/js/787.7da95b79.chunk.js.map"
+    "main.e23b221c.js.map": "/myPortfolio/static/js/main.e23b221c.js.map",
+    "787.5460105f.chunk.js.map": "/myPortfolio/static/js/787.5460105f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e797d5ee.css",
-    "static/js/main.4463824d.js"
+    "static/js/main.e23b221c.js"
   ]
 }
