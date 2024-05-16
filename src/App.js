@@ -28,7 +28,7 @@ function App() {
     return () => clearTimeout(timer);
   }, []);
   useEffect(() => {
-    document.title = 'Mwichabe | Portfolio';
+    document.title = 'Collins M. | Portfolio';
   }, []);
 
   return (
