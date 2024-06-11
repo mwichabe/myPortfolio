@@ -21,6 +21,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Best Candidate Website"
+              description="This Website is for the best Candidate Mobile app to be lauched soon..."
+              ghLink="https://github.com/mwichabe/waterDetectorhttps://github.com/mwichabe/BestCandidateWebsite-new-"
+              demoLink="https://bestcandidatewebsite-new.pages.dev/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
@@ -49,17 +59,6 @@ function Projects() {
               description="Web and Mobile App, made use of Quotable API"
               ghLink="https://github.com/mwichabe/astretConsultant/tree/main"
               demoLink="https://astretconsultant.pages.dev/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title="Flutter Water Detector App"
-              description="Made use of openweather API to show the weather paterns, this was build with flutter."
-              ghLink="https://github.com/mwichabe/waterDetector"
-              //demoLink=""
             />
           </Col>
 
