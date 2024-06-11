@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Best Candidate Website"
               description="This Website is for the best Candidate Mobile app to be lauched soon..."
-              ghLink="https://github.com/mwichabe/waterDetectorhttps://github.com/mwichabe/BestCandidateWebsite-new-"
+              ghLink="https://github.com/mwichabe/BestCandidateWebsite-new-"
               demoLink="https://bestcandidatewebsite-new.pages.dev/"
             />
           </Col>

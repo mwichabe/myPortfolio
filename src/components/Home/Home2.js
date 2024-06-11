@@ -18,17 +18,17 @@ function Home2() {
               <span className="purple"> BRIEF INTRODUCTION </span>
             </h1>
             <p className="home-about-body">
-            Want your work done? Reach out foor quality work at affordable prices..
+            Are you looking for a talent to fit in your team? Look no further, I am looking for a job that has an official hybrid or onsite setting, where I can put my skills to work.
               <br />
-              <br />My stack:
+              <br />I am good with
               <i>
-                <b className="purple"> For mobile development/web/desktop: Flutter, For Desktop App JavaNetbeans Event Driven GUI. For web Development: Java Script (React.js), (Express.js) For backend: and Python(Flask/Django). </b>
+                <b className="purple"> Flutter, view my project section for samples </b>
               </i>
               <br />
               <br />
-              I am keen in learning trending technologies and languages such as  &nbsp;
+              I am looking for a job as a   &nbsp;
               <i>
-                <b className="purple"> Go lang, Rust </b> I have keen eye on
+                <b className="purple"> Flutter developer, React or FrontEnd Engineer  </b> I have keen eye on
                  areas related to{" "}
                 <b className="purple">
                  Frontend development
@@ -36,7 +36,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I am constatnly working on my own projects hoping someday I will reach a potential market base.
+              I have my own projects that help sharpen my skills constantly, aspiring to reach the market base.
               with <b className="purple">Mark Zugerburg</b> as
               <i>
                 <b className="purple">
