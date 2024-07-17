@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import travelPersona from "../../Assets/Projects/travelPersona.png";
 
 function Projects() {
   return (
@@ -23,6 +24,16 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={travelPersona}
+              isBlog={false}
+              title="Travel Persona"
+              description="Create a trip and manage your Users"
+              ghLink=""
+              demoLink="https://www.travelpersona.co/"
+            />
+          </Col>
+        <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
               title="Best Candidate Website"
@@ -35,7 +46,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Flutter Antonios Sports Lounge App"
+              title="Antonios Sports Lounge App"
               description="Personal Social Media App that allows users to chat."
               ghLink="https://github.com/mwichabe/Antonios_Sports_Lounge"
               demoLink="https://www.linkedin.com/posts/collins-mwichabe1345_flutterdeveloper-mobileappdevelopment-antoniosapp-activity-7130597862886817792-lBCR?utm_source=share&utm_medium=member_desktop"
